@@ -1,0 +1,1 @@
+API_KEY:str = "Insert your API key here"
