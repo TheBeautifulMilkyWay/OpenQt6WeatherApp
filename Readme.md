@@ -1,6 +1,6 @@
 # OpenQt6WeatherApp - A GUI weather forecast 
 
-OpenQt6WeatherApp is simple weather program based on [Qt](qt.io) GUI Framework. 
+OpenQt6WeatherApp is simple weather forecast program based on [Qt](qt.io) GUI Framework. 
 
 # Requirements
 
