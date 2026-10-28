@@ -21,7 +21,7 @@ source your_venv_name/bin/activate
 ```
 pip install pyside6 httpx
 ```
-6. Run
+6. Run:
 ```
 python3 main.py
 ```
